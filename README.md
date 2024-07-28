@@ -1,7 +1,5 @@
-# NN_Library_exercise
+# Autograd Engine
 
-Neural network class and dataloader created to test understanding of the theory. Made using only numpy.
-
-made tensor class to simplify backpropagation
+Made automatic differentiation engine, supporting various tensor operations. Made using only numpy as a pedagogical exercise
 
 Currently replacing numpy operations with CUDA
